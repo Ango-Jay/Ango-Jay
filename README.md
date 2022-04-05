@@ -6,5 +6,5 @@ Few things you should know about me:
 - 📫 How to reach me: twitter, email, or LinkedIn...pick your poison
 - 😄 Pronouns: yeah I'm a guy so do the math
 - ⚡ Fun fact: I'm ambidextrous😌
-- 👨🏾‍💻 MERN stack developer
+
 
