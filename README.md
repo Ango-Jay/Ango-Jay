@@ -5,4 +5,5 @@ Few things you should know about me:
 - ⚡ Fun fact: I'm ambidextrous😌
 
 ## ✍️ Latest Blog Posts
-
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
