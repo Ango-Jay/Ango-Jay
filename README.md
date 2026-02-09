@@ -4,4 +4,5 @@ Few things you should know about me:
 - 🤝 Open to work on super creative and fun projects
 - ⚡ Fun fact: I'm ambidextrous😌
 
+## ✍️ Latest Blog Posts
 
