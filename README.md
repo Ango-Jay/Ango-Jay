@@ -6,4 +6,8 @@ Few things you should know about me:
 
 ## ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Optimizing Next.js Docker Images with Standalone Mode](https://dev.to/angojay/optimizing-nextjs-docker-images-with-standalone-mode-2nnh)
+- [Managing Async State with TanStack Query](https://dev.to/angojay/managing-async-state-with-tanstack-query-31k8)
+- [Caching on the frontend](https://dev.to/angojay/caching-on-the-frontend-227m)
+- [Code Grooming: Principles for Long-Term Software Health](https://dev.to/angojay/code-grooming-principles-for-long-term-software-health-jh5)
 <!-- BLOG-POST-LIST:END -->
