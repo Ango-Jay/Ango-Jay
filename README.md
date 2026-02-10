@@ -6,6 +6,7 @@ Few things you should know about me:
 
 ## ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [From Heavy to Lightweight: Compressing Images in Expo for Better Performance](https://dev.to/angojay/from-heavy-to-lightweight-compressing-images-in-expo-for-better-performance-50fa)
 - [Optimizing Next.js Docker Images with Standalone Mode](https://dev.to/angojay/optimizing-nextjs-docker-images-with-standalone-mode-2nnh)
 - [Managing Async State with TanStack Query](https://dev.to/angojay/managing-async-state-with-tanstack-query-31k8)
 - [Caching on the frontend](https://dev.to/angojay/caching-on-the-frontend-227m)
