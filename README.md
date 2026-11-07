@@ -1,8 +1,10 @@
-# Hey you!✌🏾
+# Ango Jeffrey here✌🏾
+### Senior Frontend & Full-Stack Engineer
 Few things you should know about me:
-- 🔧 Designing, Creating, and Fixing these are things that come natural to me😌
-- 🤝 Open to work on super creative and fun projects
-- ⚡ Fun fact: I'm ambidextrous😌
+- 🏗️ Builder at heart 🛠️💻✨
+- 🤝 Open to building super creative, scalable, and high-impact projects.
+- 🔗 Check out my work and articles at [angojay.com](https://angojay.com) | [Dev.to](https://dev.to/angojay)
+- ⚡ **Fun fact:** I'm ambidextrous 😌
 
 ## ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
